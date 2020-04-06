@@ -17,6 +17,7 @@ docker run -d \
  crazygit/jellyfin
 ```
 
+Visit: <http://your_ip:8096>
 
 More detail, please see:
 
